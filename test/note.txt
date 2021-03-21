@@ -1,0 +1,4 @@
+use cross-env npm package to test on different env.
+
+use test script
+    test:"cross-env NODE_ENV=dev mocha test.js"
